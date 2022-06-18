@@ -7,5 +7,6 @@ Architecture
 Illustration of our proposed SCDRE. First, self-supervised learning is introduced to acquire and refine commonsense knowledge. Second, the entity pair representation is constructed to enhance entity contextualized embedding. Finally, entity pair rich attention fusion incorporates commonsense knowledge into the entity pair contextualized embedding by knowledge attention.
 
 Overall Results
+
 ![Overall Results](https://user-images.githubusercontent.com/9714955/174421755-65779f08-4c93-4399-aaaf-2b4717d02aed.PNG)
 
