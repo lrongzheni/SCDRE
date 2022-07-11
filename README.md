@@ -1,4 +1,4 @@
-Source code for Neural Computing and Application 2022 paper:Self-Supervised Commonsense Knowledge Learning forDocument-level Relation Extraction
+Source code for Neural Computing and Application 2022 paper:SCDRE
 
 
 Architecture
